@@ -42,3 +42,24 @@ I did my Bachelor of Technology in Computer Engineering from K. J. Somaiya Colle
 <strong>CGPA:</strong> 3.5/4.0 <br> 
 <strong>Relevant coursework:</strong> Artificial Intelligence, Machine Learning, Neural Networks, Applied Mathematics, Image Analysis, Data Warehousing and Mining, Fundamentals of Programming, Data Structures, Algorithms, Computer Architecture, Operating Systems <br>
 
+
+Experience
+-----
+<img align="left" height="50" width="100" src="../images/logos/IU.png" style="padding-right:15px">
+
+**Research Assistant, IU Computer Vision Lab**
+#### June 2020 - Present
+-----
+I am a part of [Prof. David Crandall's](https://homes.luddy.indiana.edu/djcran/) research group. I am currently working on 3D Reconstruction from single-view and multi-view images.
+
+-----
+<img align="left" height="100" width="100" src="../images/logos/tcm_lacrosse.png" style="padding-right:15px">
+
+**Machine Learning Intern, TCM Lacrosse**
+#### June 2020 - Present
+-----
+* I am currently working on building an entire Machine Learning pipeline which could track shot placements for the game of Lacrosse. There are two main aspects; ball tracking, and collision detection (detecting when the ball collides with the net).
+
+* I have improved the precision by 0.5 and recall by 0.8 than the previously trained model for the task of collision detection.
+
+* I am also responsible for creating and assigning batches to everyone for annotating the dataset using the [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) and [Make Sense](https://www.makesense.ai/) online tool. 
