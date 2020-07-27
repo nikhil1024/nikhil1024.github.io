@@ -1,0 +1,28 @@
+---
+title: "Paper Title Number 1"
+collection: publications
+permalink: /publication/Face-Recognition-using-One-shot-Learning
+excerpt: 'Abstract: Face Recognition represents one of the attractive research
+areas. It has drawn the attention of many researchers due to its
+varying applications such as security, healthcare, marketing,
+identity authentication, surveillance etc. In this order, different
+face recognition algorithms have been proposed however, one
+algorithm that stands out in the event of limited dataset is one
+shot learning. “One shot” means learning from a single
+training item. This paper discusses a way for solving this
+problem. Neural networks are notorious for requiring
+extremely large datasets to reach a considerable accuracy.
+This paper proposes a method to solve this problem for the
+face recognition domain by bringing down the number of
+training samples required to just one and still achieving a
+decent accuracy close to 90%.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'https://www.ijcaonline.org/archives/volume182/number23/thakurdesai-2018-ijca-918032.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](https://www.ijcaonline.org/archives/volume182/number23/thakurdesai-2018-ijca-918032.pdf)
+
+Recommended citation: Nikhil Thakurdesai, Nikita Raut and Anupam Tripathi. Face Recognition using One-shot Learning. International Journal of Computer Applications 182(23):35-39, October 2018. 
