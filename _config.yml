@@ -85,7 +85,7 @@ author:
   bio              : "Master's in Computer Science at Indiana University"
   location         : "Bloomington, Indiana"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=Vz8v4H4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
