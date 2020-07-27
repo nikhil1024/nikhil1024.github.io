@@ -18,7 +18,7 @@ Apart from Technology, I love to play Soccer and Table-Tennis. I love to explore
 
 Education
 -----
-<img align="left" height="100" width="150" src="../images/logos/IU.png" style="padding-right:15px">
+<img align="left" height="50" width="100" src="../images/logos/IU.png" style="padding-right:15px">
 
 **Master's in Computer Science, Indiana University**
 #### August 2019 - Present
