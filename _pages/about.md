@@ -50,7 +50,9 @@ Experience
 **Research Assistant, IU Computer Vision Lab**
 #### June 2020 - Present
 -----
-I am a part of [Prof. David Crandall's](https://homes.luddy.indiana.edu/djcran/) research group. I am currently working on 3D Reconstruction from single-view and multi-view images.
+* I am a part of [Prof. David Crandall's](https://homes.luddy.indiana.edu/djcran/) research group. I am currently working on 3D Reconstruction from single-view and multi-view images.
+
+* I am also responsible for training a novel architecture on various datasets. We were able to achieve state-of-the-art results on the [NYUv2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) and the [ScanNet](http://www.scan-net.org/) dataset.
 
 -----
 <img align="left" height="100" width="100" src="../images/logos/tcm_lacrosse.png" style="padding-right:15px">
