@@ -15,3 +15,16 @@ I completed my undergraduate in Computer Engineering from K. J. Somaiya College 
 
 Apart from Technology, I love to play Soccer and Table-Tennis. I love to explore new places and try out different cuisines. 
 
+
+---
+permalink: /
+title: "Education"
+excerpt: "Education"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+
