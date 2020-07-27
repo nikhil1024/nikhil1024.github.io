@@ -17,7 +17,7 @@ Apart from Technology, I love to play Soccer and Table-Tennis. I love to explore
 
 
 ---
-permalink: /
+permalink:
 title: "Education"
 excerpt: "Education"
 author_profile: true
