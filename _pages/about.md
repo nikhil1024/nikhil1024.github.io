@@ -65,3 +65,13 @@ Experience
 * I have improved the precision by 0.5 and recall by 0.8 than the previously trained model for the task of collision detection.
 
 * I am also responsible for creating and assigning batches to everyone for annotating the dataset using the [VGG Image Annotator (VIA)](http://www.robots.ox.ac.uk/~vgg/software/via/) and [Make Sense](https://www.makesense.ai/) online tool. 
+
+-----
+<img align="left" height="100" width="100" src="../images/logos/somaiya.png" style="padding-right:15px">
+
+**Machine Learning Intern, K. J. Somaiya College of Engineering**
+#### December 2017 - January 2018
+-----
+* Developed 3 different approaches for Facial Expression Detection using Tensorflow and OpenCV that could detect the 7 basic emotions with an accuracy of 95%.
+* The first 2 methods used Convolutional Neural Networks, one trained from scratch and the other using Transfer Learning.
+* Reduced the computational time required in the third method to 50% by using Dlib to extract 68 facial landmarks important for expression detection, and then these extracted features were passed on to a Deep Neural Network for classification.
